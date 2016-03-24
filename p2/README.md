@@ -1,1 +1,1 @@
-#Droptail vs RED queing as implemented on a Dumbell Topology
+Measuring Efficiency of DropTail vs RED queing on a dumbbell topology with varying nodes on each leaf
