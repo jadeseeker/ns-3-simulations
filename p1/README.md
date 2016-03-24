@@ -1,1 +1,1 @@
-Measuring TCP throughput on a simply topology
+Measuring TCP throuput on simple 2 node dumbbell topology
